@@ -1,7 +1,10 @@
 package application;
 
+import org.springframework.boot.SpringApplication;
+
 public class app {
     public static void main(String[] args) {
-        System.out.println("Travel Agency");
+        SpringApplication.run(app.class, args);
     }
+
 }

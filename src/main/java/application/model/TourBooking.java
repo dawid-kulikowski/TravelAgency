@@ -17,4 +17,6 @@ public class TourBooking {
         this.estimatedTourPrice = estimatedTourPrice;
         this.finalTourPrice = finalTourPrice;
     }
+
+
 }
